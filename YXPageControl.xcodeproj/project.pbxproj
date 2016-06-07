@@ -7,25 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1901015B1D06928D00B80619 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1901015A1D06928D00B80619 /* main.m */; };
-		1901015E1D06928D00B80619 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1901015D1D06928D00B80619 /* AppDelegate.m */; };
-		190101611D06928D00B80619 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 190101601D06928D00B80619 /* ViewController.m */; };
-		190101641D06928D00B80619 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 190101621D06928D00B80619 /* Main.storyboard */; };
-		190101661D06928D00B80619 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 190101651D06928D00B80619 /* Assets.xcassets */; };
-		190101691D06928D00B80619 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 190101671D06928D00B80619 /* LaunchScreen.storyboard */; };
+		1901017D1D06931400B80619 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 190101731D06931400B80619 /* AppDelegate.m */; };
+		1901017E1D06931400B80619 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 190101741D06931400B80619 /* Assets.xcassets */; };
+		1901017F1D06931400B80619 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 190101751D06931400B80619 /* LaunchScreen.storyboard */; };
+		190101801D06931400B80619 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 190101771D06931400B80619 /* Main.storyboard */; };
+		190101811D06931400B80619 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 190101791D06931400B80619 /* Info.plist */; };
+		190101821D06931400B80619 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1901017A1D06931400B80619 /* main.m */; };
+		190101831D06931400B80619 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1901017C1D06931400B80619 /* ViewController.m */; };
+		190101861D0693B500B80619 /* YXPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 190101851D0693B500B80619 /* YXPageControl.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		190101561D06928D00B80619 /* YXPageControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YXPageControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1901015A1D06928D00B80619 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1901015C1D06928D00B80619 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		1901015D1D06928D00B80619 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		1901015F1D06928D00B80619 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		190101601D06928D00B80619 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		190101631D06928D00B80619 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		190101651D06928D00B80619 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		190101681D06928D00B80619 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		1901016A1D06928D00B80619 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		190101721D06931400B80619 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		190101731D06931400B80619 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		190101741D06931400B80619 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		190101761D06931400B80619 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		190101781D06931400B80619 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		190101791D06931400B80619 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1901017A1D06931400B80619 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1901017B1D06931400B80619 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		1901017C1D06931400B80619 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		190101841D0693B500B80619 /* YXPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXPageControl.h; sourceTree = "<group>"; };
+		190101851D0693B500B80619 /* YXPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXPageControl.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +46,8 @@
 		1901014D1D06928D00B80619 = {
 			isa = PBXGroup;
 			children = (
-				190101581D06928D00B80619 /* YXPageControl */,
+				190101701D06931400B80619 /* YXPageControl */,
+				190101711D06931400B80619 /* YXPageControlDemo */,
 				190101571D06928D00B80619 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,28 +60,29 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		190101581D06928D00B80619 /* YXPageControl */ = {
+		190101701D06931400B80619 /* YXPageControl */ = {
 			isa = PBXGroup;
 			children = (
-				1901015C1D06928D00B80619 /* AppDelegate.h */,
-				1901015D1D06928D00B80619 /* AppDelegate.m */,
-				1901015F1D06928D00B80619 /* ViewController.h */,
-				190101601D06928D00B80619 /* ViewController.m */,
-				190101621D06928D00B80619 /* Main.storyboard */,
-				190101651D06928D00B80619 /* Assets.xcassets */,
-				190101671D06928D00B80619 /* LaunchScreen.storyboard */,
-				1901016A1D06928D00B80619 /* Info.plist */,
-				190101591D06928D00B80619 /* Supporting Files */,
+				190101841D0693B500B80619 /* YXPageControl.h */,
+				190101851D0693B500B80619 /* YXPageControl.m */,
 			);
 			path = YXPageControl;
 			sourceTree = "<group>";
 		};
-		190101591D06928D00B80619 /* Supporting Files */ = {
+		190101711D06931400B80619 /* YXPageControlDemo */ = {
 			isa = PBXGroup;
 			children = (
-				1901015A1D06928D00B80619 /* main.m */,
+				190101721D06931400B80619 /* AppDelegate.h */,
+				190101731D06931400B80619 /* AppDelegate.m */,
+				190101741D06931400B80619 /* Assets.xcassets */,
+				190101751D06931400B80619 /* LaunchScreen.storyboard */,
+				190101771D06931400B80619 /* Main.storyboard */,
+				190101791D06931400B80619 /* Info.plist */,
+				1901017A1D06931400B80619 /* main.m */,
+				1901017B1D06931400B80619 /* ViewController.h */,
+				1901017C1D06931400B80619 /* ViewController.m */,
 			);
-			name = "Supporting Files";
+			path = YXPageControlDemo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,9 +142,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				190101691D06928D00B80619 /* LaunchScreen.storyboard in Resources */,
-				190101661D06928D00B80619 /* Assets.xcassets in Resources */,
-				190101641D06928D00B80619 /* Main.storyboard in Resources */,
+				190101811D06931400B80619 /* Info.plist in Resources */,
+				190101801D06931400B80619 /* Main.storyboard in Resources */,
+				1901017E1D06931400B80619 /* Assets.xcassets in Resources */,
+				1901017F1D06931400B80619 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,29 +156,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				190101611D06928D00B80619 /* ViewController.m in Sources */,
-				1901015E1D06928D00B80619 /* AppDelegate.m in Sources */,
-				1901015B1D06928D00B80619 /* main.m in Sources */,
+				190101831D06931400B80619 /* ViewController.m in Sources */,
+				190101861D0693B500B80619 /* YXPageControl.m in Sources */,
+				190101821D06931400B80619 /* main.m in Sources */,
+				1901017D1D06931400B80619 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		190101621D06928D00B80619 /* Main.storyboard */ = {
+		190101751D06931400B80619 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				190101631D06928D00B80619 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		190101671D06928D00B80619 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				190101681D06928D00B80619 /* Base */,
+				190101761D06931400B80619 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		190101771D06931400B80619 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				190101781D06931400B80619 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -265,7 +273,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = YXPageControl/Info.plist;
+				INFOPLIST_FILE = YXPageControlDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lianlian.YXPageControl;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,7 +285,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = YXPageControl/Info.plist;
+				INFOPLIST_FILE = YXPageControlDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lianlian.YXPageControl;
 				PRODUCT_NAME = "$(TARGET_NAME)";

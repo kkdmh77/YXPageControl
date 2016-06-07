@@ -1,6 +1,6 @@
 //
 //  ViewController.h
-//  YXPageControl
+//  YXPageControlDemo
 //
 //  Created by zdy on 16/6/7.
 //  Copyright © 2016年 lianlian. All rights reserved.
